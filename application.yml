@@ -1,0 +1,8 @@
+---
+version: 1.0.0-SNAPSHOT
+pozdrawiam: serdecznie
+
+---
+spring:
+  profiles: default
+sampleProp: example-value
